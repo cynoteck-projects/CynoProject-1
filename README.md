@@ -1,1 +1,1 @@
-# CynoProject-1
+# CynoProject
